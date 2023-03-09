@@ -1,0 +1,18 @@
+ul.mainmenu {
+    color: brown;
+    size: 20px;
+}
+
+.flash {
+    padding: 10px;
+}
+
+.flash.success {
+    border: 2px solid burlywood;
+    background: green;
+}
+
+.flash.error {
+    border: 2px solid burlywood;
+    background: brown;
+}
